@@ -22,7 +22,7 @@ Each folder at the top of this repository contains a standalone project, challen
 Depending on the folder, the code in this repository uses:
 - Python
 - C/C++
-- HTML / CSS / JavaScript
+- HTML / CSS / JavaScript / Typescript
 - Rust
 - C#
 
